@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RodarDado</string>
+    <string name="rolar">Rolar</string>
+    <string name="reiniciar">Reiniciar</string>
+    <string name="parar">Parar</string>
+    <string name="pontos">Pontos:</string>
+    <string name="_0">0</string>
+    <string name="todo">TODO</string>
+</resources>
